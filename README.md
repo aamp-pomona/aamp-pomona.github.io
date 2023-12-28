@@ -1,1 +1,1 @@
-# aamp-pomona.github.io
+# main website
